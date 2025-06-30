@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Haidong Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master of Electronic Information at Sun Yat-sen University, interested in research areas including signal processing, generative AI, and LLM agents."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
