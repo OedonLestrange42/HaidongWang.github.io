@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Haidong Wang
 
 Contact: oedon42@gmail.com / wanghd7@mail2.sysu.edu.cn | LinkedIn: [Haidong Wang](https://www.linkedin.com/in/billryan8)
 
