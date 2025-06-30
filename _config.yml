@@ -24,17 +24,14 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haidong Wang"
-  pronouns         : # example: "she/her"  
   bio              : "Master of Electronic Information at Sun Yat-sen University, interested in research areas including signal processing, generative AI, and LLM agents."
   location         : "China"
   employer         : "Sun Yat-sen University"
-  uri              : # URL
   email            : "wanghd7@mail2.sysu.edu.cn" 
 
   # Repositories and software development
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : "HG Steve"   
 
 
 # Publication Category - The following the list of publication categories and their headings
