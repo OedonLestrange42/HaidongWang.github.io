@@ -1,60 +1,87 @@
+
 ---
 permalink: /
-title: "About me"
+title: "Haidong Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Contact: oedon42@gmail.com / wanghd7@mail2.sysu.edu.cn | LinkedIn: [Haidong Wang](https://www.linkedin.com/in/billryan8)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <h1 style="margin-bottom: 0;">Haidong Wang</h1>
+    <p style="font-size: 1.1em; color: #555;">Master's Student in Electronic and Information Engineering</p>
+    <p>
+      <a href="mailto:oedon42@gmail.com" style="text-decoration: none; color: #0077b5;">
+        <i class="fas fa-envelope"></i> oedon42@gmail.com
+      </a> | 
+      <a href="mailto:wanghd7@mail2.sysu.edu.cn" style="text-decoration: none; color: #0077b5;">
+        <i class="fas fa-university"></i> wanghd7@mail2.sysu.edu.cn
+      </a>
+    </p>
+    <p>
+      <a href="https://huggingface.co/Oedon42" target="_blank" style="text-decoration: none; color: #0077b5;">
+        <i class="fas fa-robot"></i> Hugging Face
+      </a> | 
+      <a href="https://github.com/OedonLestrange42" target="_blank" style="text-decoration: none; color: #0077b5;">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </p>
+  </div>
+</div>
 
 ---
 
-## Education
+### About Me
 
-### **Sun Yat-sen University (SYSU)**, Shenzhen, China -- 2023 -- present
-*Master student* in Electronic and Information Engineering. (GPA expected by June 2026)
-
-### **Sun Yat-sen University (SYSU)**, Shenzhen, China -- 2019 -- 2023
-*B.S.* in Intelligent Science and Technology. (GPA 3.6/4.0)
+I am a dedicated and innovative Master's student at Sun Yat-sen University with a strong foundation in Intelligent Science and Technology. My passion lies in the fields of Artificial Intelligence, particularly in areas like Natural Language Processing, Computer Vision, and Agent Design. I am driven by the challenge of solving complex problems and contributing to the development of cutting-edge, open-source AI solutions.
 
 ---
 
-## Experience
+### 🎓 Education
 
-### **Superposition of Discontinuous Images & Interpretable DNN.** SYSU. Shenzhen, China -- 2023 -- Present
-**Role:** Research Intern (Tutor: Dr. Shimin Gong)
-*Brief introduction: Compressive imaging on discontinuous images with physical neural network.*
-- Designed an image encoding method capable of superposing multiple images without increasing data volume, enabling light-weighted data storage and transmission. Paper preview available at [https://doi.org/10.48550/arXiv.2504.07498](https://doi.org/10.48550/arXiv.2504.07498).
-- Built a physical neural network utilizing an intelligent reflecting surface (IRS) for the light-weighted image transmission system.
-- Proposed a truncated DRL approach for compressing tokenized image representations, which significantly improves convergence and enhances interpretability.
+**Sun Yat-sen University (SYSU)**, Shenzhen, China
 
-### **Web Novel Benchmark Project** -- Dec. 2024 -- May. 2025
-**Role:** Main Contributor (Individual Projects)
-*Brief introduction: Developed an LLM-as-judge benchmark for quantifying web novel quality, assisting in fine-tuning and dataset cleaning.*
-- Scored 40,000 web novel samples across 8 dimensions using DeepSeek-V3. Raw data is available at [https://huggingface.co/datasets/Oedon42/webnovelbench](https://huggingface.co/datasets/Oedon42/webnovelbench).
-- Fine-tuned a Qwen-2.5-7B model to distill DeepSeek-V3's scoring capabilities into a lightweight model.
-- Tested over 20 prevalent LLMs using the developed benchmark. The web novel benchmark paper can be found at [https://doi.org/10.48550/arXiv.2505.14818](https://doi.org/10.48550/arXiv.2505.14818).
-
-### **LLM Agent Design** -- Oct. 2024 -- Nov. 2024
-**Role:** Main Contributor (Individual Projects)
-*Brief introduction: Created LLM agents for collecting, cleaning, and captioning image data to construct open-source datasets.*
-- Built a dataset containing 283 Thang-ka images.
-- Trained a LoRA model for Stable Diffusion-xl based on the collected images, available at [https://huggingface.co/Oedon42/thangka-lora-xl](https://huggingface.co/Oedon42/thangka-lora-xl).
-- Demonstrated that the fine-tuned SD-xl model can effectively follow specific instructions, such as generating 'Avalokiteshvara'.
+*   **Master of Engineering in Electronic and Information Engineering** (Expected June 2026)
+*   **B.S. in Intelligent Science and Technology** (2019 – 2023)
+    *   GPA: 3.6/4.0
 
 ---
 
-## Skills
+### 💻 Experience
 
-- Programming Languages: Python, Matlab, TypeScript
-- Development Areas: LLM Agent, RAG, MPC, Prompt Engineering, LoRA, Web Development
+**ASR workflow and AI Customer Service Agent** | *Jul. 2025 – Present*
+*   Fine-tuning ASR and speaker models for specialized language applications.
+*   Developing a complete ASR workflow and an intelligent, responsive agent.
+*   Engineered a SeacoParaformer model fine-tuned on a Chinese dialect dataset.
+*   Constructed a business-specific RAG knowledge base and an intelligent customer service system using LangChain.
+
+**LLM-as-Judge Benchmark** | *Dec. 2024 – May. 2025*
+*   Developed a benchmark using an LLM-as-judge for quantitative analysis to aid in the fine-tuning and cleaning of datasets.
+*   Scored 40,000 web novel samples from 8 different perspectives utilizing DeepSeek-V3.
+*   Fine-tuned a Qwen-2.5-7B model to distill the capabilities of DeepSeek-V3 into a more lightweight and efficient scoring model.
+
+**Autonomous Data Collecting and Captioning Agent Design** | *Oct. 2024 – Nov. 2024*
+*   Engineered LLM-based agents for the automated collection, cleaning, and captioning of image data to build open-source datasets.
+*   Successfully constructed a dataset that includes 283 Thang-ka images.
+*   Trained a LoRA model of Stable Diffusion-xl, which can be accessed on [Hugging Face](https://huggingface.co/Oedon42/thangka-lora-xl).
+
+**Throughput Maximization with Vision Latent Cache** | *Research Intern* | *2023 – Present*
+*   *Tutor: Dr. Shimin Gong*
+*   Focused on encoding and decoding images superimposed in latent-space to improve neural network throughput.
+*   Developed an adjusted Cold Diffusion model for effective image overlapping and decoding.
+*   Built a system prototype using GNURadio and PyTorch.
 
 ---
 
-## Miscellaneous
+### 🛠 Skills
 
-- HuggingFace: [Oedon42](https://huggingface.co/Oedon42)
-- GitHub: [OedonLestrange42](https://github.com/OedonLestrange42)
-- Languages: English - CET 6 (IELTS results expected by Jul. 2025), Mandarin - Native speaker
+*   **Programming Languages:** Python, TypeScript, C++
+*   **Development:** RAG, MCP, LoRA, RLHF, DDPO
+
+---
+
+### 🌐 Miscellaneous
+
+*   **Languages:** English (IELTS 7.5), Mandarin (Native Speaker)
