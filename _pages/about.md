@@ -10,7 +10,7 @@ redirect_from:
 
 # Haidong Wang
 
-<oedon42@gmail.com> | <wanghd7@mail2.sysu.edu.cn> | [LinkedIn](https://www.linkedin.com/in/billryan8) | [HuggingFace](https://huggingface.co/Oedon42) | [GitHub](https://github.com/OedonLestrange42)
+<oedon42@gmail.com> | <wanghd7@mail2.sysu.edu.cn> | [LinkedIn](www.linkedin.com/in/海东-王-b61877378) | [HuggingFace](https://huggingface.co/Oedon42) | [GitHub](https://github.com/OedonLestrange42)
 
 ---
 
