@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<oedon42@gmail.com> | <wanghd7@mail2.sysu.edu.cn> | [LinkedIn](www.linkedin.com/in/haidong-wang-b61877378) | [HuggingFace](https://huggingface.co/Oedon42) | [GitHub](https://github.com/OedonLestrange42)
+<oedon42@gmail.com> | <wanghd7@mail2.sysu.edu.cn> | [LinkedIn](http://www.linkedin.com/in/haidong-wang-b61877378) | [HuggingFace](https://huggingface.co/Oedon42) | [GitHub](https://github.com/OedonLestrange42)
 
 ---
 
