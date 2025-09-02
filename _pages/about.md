@@ -8,30 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    <h1 style="margin-bottom: 0;">Haidong Wang</h1>
-    <p style="font-size: 1.1em; color: #555;">Master's Student in Electronic and Information Engineering</p>
-    <p>
-      <a href="mailto:oedon42@gmail.com" style="text-decoration: none; color: #0077b5;">
-        <i class="fas fa-envelope"></i> oedon42@gmail.com
-      </a> | 
-      <a href="mailto:wanghd7@mail2.sysu.edu.cn" style="text-decoration: none; color: #0077b5;">
-        <i class="fas fa-university"></i> wanghd7@mail2.sysu.edu.cn
-      </a>
-    </p>
-    <p>
-      <a href="https://huggingface.co/Oedon42" target="_blank" style="text-decoration: none; color: #0077b5;">
-        <i class="fas fa-robot"></i> Hugging Face
-      </a> | 
-      <a href="https://github.com/OedonLestrange42" target="_blank" style="text-decoration: none; color: #0077b5;">
-        <i class="fab fa-github"></i> GitHub
-      </a>
-    </p>
-  </div>
-</div>
-
----
 
 ### About Me
 
