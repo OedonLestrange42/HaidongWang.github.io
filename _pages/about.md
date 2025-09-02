@@ -1,7 +1,6 @@
-
 ---
 permalink: /
-title: "Haidong Wang"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,55 +8,61 @@ redirect_from:
 ---
 
 
-### About Me
+# Haidong Wang
 
-I am a dedicated and innovative Master's student at Sun Yat-sen University with a strong foundation in Intelligent Science and Technology. My passion lies in the fields of Artificial Intelligence, particularly in areas like Natural Language Processing, Computer Vision, and Agent Design. I am driven by the challenge of solving complex problems and contributing to the development of cutting-edge, open-source AI solutions.
+<oedon42@gmail.com> | <wanghd7@mail2.sysu.edu.cn> | [LinkedIn](https://www.linkedin.com/in/billryan8) | [HuggingFace](https://huggingface.co/Oedon42) | [GitHub](https://github.com/OedonLestrange42)
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 **Sun Yat-sen University (SYSU)**, Shenzhen, China
+*Master of Science in Electronic and Information Engineering*
+*(Expected Graduation: June 2026)*
 
-*   **Master of Engineering in Electronic and Information Engineering** (Expected June 2026)
-*   **B.S. in Intelligent Science and Technology** (2019 – 2023)
-    *   GPA: 3.6/4.0
-
----
-
-### 💻 Experience
-
-**ASR workflow and AI Customer Service Agent** | *Jul. 2025 – Present*
-*   Fine-tuning ASR and speaker models for specialized language applications.
-*   Developing a complete ASR workflow and an intelligent, responsive agent.
-*   Engineered a SeacoParaformer model fine-tuned on a Chinese dialect dataset.
-*   Constructed a business-specific RAG knowledge base and an intelligent customer service system using LangChain.
-
-**LLM-as-Judge Benchmark** | *Dec. 2024 – May. 2025*
-*   Developed a benchmark using an LLM-as-judge for quantitative analysis to aid in the fine-tuning and cleaning of datasets.
-*   Scored 40,000 web novel samples from 8 different perspectives utilizing DeepSeek-V3.
-*   Fine-tuned a Qwen-2.5-7B model to distill the capabilities of DeepSeek-V3 into a more lightweight and efficient scoring model.
-
-**Autonomous Data Collecting and Captioning Agent Design** | *Oct. 2024 – Nov. 2024*
-*   Engineered LLM-based agents for the automated collection, cleaning, and captioning of image data to build open-source datasets.
-*   Successfully constructed a dataset that includes 283 Thang-ka images.
-*   Trained a LoRA model of Stable Diffusion-xl, which can be accessed on [Hugging Face](https://huggingface.co/Oedon42/thangka-lora-xl).
-
-**Throughput Maximization with Vision Latent Cache** | *Research Intern* | *2023 – Present*
-*   *Tutor: Dr. Shimin Gong*
-*   Focused on encoding and decoding images superimposed in latent-space to improve neural network throughput.
-*   Developed an adjusted Cold Diffusion model for effective image overlapping and decoding.
-*   Built a system prototype using GNURadio and PyTorch.
+**Sun Yat-sen University (SYSU)**, Shenzhen, China
+*Bachelor of Science in Intelligent Science and Technology*
+*(2019 – 2023)*
+- GPA: 3.6/4.0
 
 ---
 
-### 🛠 Skills
+## 💻 Experience
 
-*   **Programming Languages:** Python, TypeScript, C++
-*   **Development:** RAG, MCP, LoRA, RLHF, DDPO
+**ASR workflow and AI Customer Service Agent**
+*(Jul. 2025 – Present)*
+- Finetuning advanced ASR (Automatic Speech Recognition) and SPK (Speaker Recognition) models for specialized language applications.
+- Engineered a complete ASR workflow featuring a SeacoParaformer model finetuned on a Chinese dialect dataset.
+- Developed an intelligent customer service agent by building a business-specific RAG knowledge base using LangChain.
+
+**LLM-as-Judge Benchmark**
+*(Dec. 2024 – May. 2025)*
+- Developed an LLM-as-judge benchmark to quantify the quality of creative text, aiding in dataset cleaning and model fine-tuning.
+- Scored 40,000 web novel samples across eight distinct perspectives using DeepSeek-V3. The dataset is available at [webnovelbench](https://huggingface.co/datasets/Oedon42/webnovelbench).
+- Distilled the scoring capabilities of DeepSeek-V3 into a lightweight model by fine-tuning Qwen-2.5-7B. The corresponding paper can be found on [arXiv (2505.14818)](https://doi.org/10.48550/arXiv.2505.14818).
+
+**Autonomous Data Collecting and Captioning Agent Design**
+*(Oct. 2024 – Nov. 2024)*
+- Designed and built LLM-powered agents to automate the collection, cleaning, and captioning of image data for constructing open-source datasets.
+- Curated a specialized dataset of 283 Thang-ka images.
+- Trained a LoRA model for Stable Diffusion-XL on the curated dataset, enabling the generation of culturally specific images. The model is available at [thangka-lora-xl](https://huggingface.co/Oedon42/thangka-lora-xl).
+
+**Throughput Maximization with Vision Latent Cache**
+*Research Intern | Tutor: Dr. Shimin Gong*
+*(2023 – Present)*
+- Investigating methods to enhance Neural Network throughput by encoding and decoding images superimposed in latent space.
+- Built an adjusted Cold Diffusion model for sophisticated image overlapping and decoding tasks.
+- Developed a full system prototype using GNURadio and PyTorch for efficient data transmission. The project is detailed on [arXiv (2504.07498)](https://doi.org/10.48550/arXiv.2504.07498) and the code is on [GitHub](https://github.com/OedonLestrange42/GNURadio-WiFI-ImageTransfer).
 
 ---
 
-### 🌐 Miscellaneous
+## 🛠️ Skills
 
-*   **Languages:** English (IELTS 7.5), Mandarin (Native Speaker)
+- **Programming Languages:** Python, TypeScript, C++
+- **Development & AI:** RAG, LoRA, RLHF, DDPO, LLM Agent Design, Prompt Engineering, Model Compression & Parameter-Efficient Fine-Tuning (PEFT)
+
+---
+
+## 🌐 Miscellaneous
+
+- **Languages:** English (IELTS 7.5), Mandarin (Native Speaker)
